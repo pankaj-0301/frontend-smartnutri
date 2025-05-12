@@ -82,4 +82,4 @@ Loss Ratio is  (950 - 700) / 950 = 26.3% (approx)
 
 scaled_nutrition = (180 / 700) * total_nutrition  
 
-also for carb= 180/700 *(carbof 700g)
+also for carb=( 180/700) *(carbof 700g)
